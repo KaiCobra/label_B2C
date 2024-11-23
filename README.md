@@ -19,7 +19,7 @@ streamlit run label_ui_b2c.py
 **remember to save after fininshed labeling**  左下角的儲存
 
 ## 分工
-廚具->毛筆           李酩濠\
-牛仔褲->背心         Sean Tsu\
-自拍棒->西裝褲       鍾玄祐\
-轉接線->馬克杯       林鴻新
+寵物衣服->ups           李酩濠\
+層架->泡棉         Sean Tsu\
+smartist 高白影印紙a4 70g (5包 箱)-> canon mx416       鍾玄祐\
+音樂書->nike jordan 女鞋       林鴻新
