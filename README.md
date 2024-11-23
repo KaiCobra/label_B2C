@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## usage 
 ```bash
-streamlit run label_ui.py
+streamlit run label_ui_b2c.py
 ```
 
 **remember to save after fininshed labeling**  左下角的儲存
